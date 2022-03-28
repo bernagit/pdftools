@@ -1,2 +1,4 @@
 # pdftools
-try to do a simple pdf tool with python (just for learn)
+try to do some simple pdf tool with python (just for learn)
+
+### splitter.py
